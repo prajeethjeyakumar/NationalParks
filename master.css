@@ -1,0 +1,12 @@
+h1 {
+    color: navy;
+    border: 5px solid #ff3300;
+    display: inline-block;
+    background: turquoise;
+    font-style: italic;
+}
+.ImageBorder {
+    border: 5px solid navy;
+}
+
+
